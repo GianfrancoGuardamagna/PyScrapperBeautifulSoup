@@ -1,0 +1,850 @@
+[
+  {
+    "codigo": "EPESP080",
+    "nombre": "ESTANTERIA DE PARED DE ACERO INOXIDABLE DE 800 x 300 mm",
+    "precioFinal": 66,
+    "id": 1001,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 60
+  },
+  {
+    "codigo": "EPESP100",
+    "nombre": "ESTANTERIA DE PARED DE ACERO INOXIDABLE DE 1000 x 300 mm",
+    "precioFinal": 80.3,
+    "id": 1002,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 73
+  },
+  {
+    "codigo": "EPESP120",
+    "nombre": "ESTANTERIA DE PARED DE ACERO INOXIDABLE DE 1200 x 300 mm",
+    "precioFinal": 82.5,
+    "id": 1003,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 75
+  },
+  {
+    "codigo": "EPESP150",
+    "nombre": "ESTANTERIA DE PARED DE ACERO INOXIDABLE DE 1500 x 300 mm",
+    "precioFinal": 127.6,
+    "id": 1004,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 116
+  },
+  {
+    "codigo": "EPESP200",
+    "nombre": "ESTANTERIA DE PARED DE ACERO INOXIDABLE DE 2000 x 300 mm",
+    "precioFinal": 160.6,
+    "id": 1005,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 146
+  },
+  {
+    "codigo": "HJS-601",
+    "nombre": "FREGADERO DE 1 SENO 500 x 500 mm",
+    "precioFinal": 209,
+    "id": 1006,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 190
+  },
+  {
+    "codigo": "F1SF60",
+    "nombre": "FREGADERO DE 1 SENO SIN ESCURRIDOR DE FONDO 600 mm",
+    "precioFinal": 253,
+    "id": 1007,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 230
+  },
+  {
+    "codigo": "SC-606D",
+    "nombre": "FREGADERO DE PUERTO ABATIBLE DE 1 SENO",
+    "precioFinal": 319,
+    "id": 1008,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 290
+  },
+  {
+    "codigo": "SX-126D",
+    "nombre": "FREGADERO DE 1 SENO DERECHA CON ESCURRIDOR FLOTANTE",
+    "precioFinal": 319,
+    "id": 1009,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 290
+  },
+  {
+    "codigo": "SX-126L",
+    "nombre": "FREGADERO DE 1 SENO IZQUIERDA CON ESCURRIDOR FLOTANTE",
+    "precioFinal": 319,
+    "id": 1010,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 290
+  },
+  {
+    "codigo": "SA-126D",
+    "nombre": "FREGADERO DE 1 SENO DERECHA CON ESCURRIDOR",
+    "precioFinal": 341,
+    "id": 1011,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 310
+  },
+  {
+    "codigo": "SA-126L",
+    "nombre": "FREGADERO DE 1 SENO IZQUIERDA CON ESCURRIDOR",
+    "precioFinal": 341,
+    "id": 1012,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 310
+  },
+  {
+    "codigo": "SA-166D",
+    "nombre": "FREGADERO DE 2 SENOS DERECHA CON ESCURRIDOR",
+    "precioFinal": 451,
+    "id": 1013,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 410
+  },
+  {
+    "codigo": "SA-166L",
+    "nombre": "FREGADERO DE 2 SENOS IZQUIERDA CON ESCURRIDOR",
+    "precioFinal": 451,
+    "id": 1014,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 410
+  },
+  {
+    "codigo": "SX-166D",
+    "nombre": "FREGADERO DE 2 SENOS DERECHA CON ESCURRIDOR FLOTANTE",
+    "precioFinal": 451,
+    "id": 1015,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 410
+  },
+  {
+    "codigo": "SX-166L",
+    "nombre": "FREGADERO DE 2 SENOS IZQUIERDA CON ESCURRIDOR FLOTANTE",
+    "precioFinal": 451,
+    "id": 1016,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 410
+  },
+  {
+    "codigo": "ADT3B",
+    "nombre": "ABATIDOR DE TEMPERATURA DE 3 BANDEJAS",
+    "precioFinal": 1364,
+    "id": 1017,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 1240
+  },
+  {
+    "codigo": "ADT5B",
+    "nombre": "ABATIDOR DE TEMPERATURA DE 5 BANDEJAS",
+    "precioFinal": 1958,
+    "id": 1018,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 1780
+  },
+  {
+    "codigo": "ADT10B",
+    "nombre": "ABATIDOR DE TEMPERATURA DE 10 BANDEJAS",
+    "precioFinal": 3245,
+    "id": 1019,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 2950
+  },
+  {
+    "codigo": "ARB600ML",
+    "nombre": "ARMARIOS BLANCOS SERIE M REFRIGERACION/CONGELACION FONDO 730mm",
+    "precioFinal": 803,
+    "id": 1020,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 730
+  },
+  {
+    "codigo": "ACB600ML",
+    "nombre": "ARMARIOS BLANCOS SERIE M REFRIGERACION/CONGELACION FONDO 730mm",
+    "precioFinal": 957,
+    "id": 1021,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 870
+  },
+  {
+    "codigo": "ARB400ML",
+    "nombre": "ARMARIOS BLANCOS SERIE M REFRIGERACION/CONGELACION FONDO 600mm",
+    "precioFinal": 687.5,
+    "id": 1022,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 625
+  },
+  {
+    "codigo": "ACB400ML",
+    "nombre": "ARMARIOS BLANCOS SERIE M REFRIGERACION/CONGELACION FONDO 600mm",
+    "precioFinal": 774.4,
+    "id": 1023,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 704
+  },
+  {
+    "codigo": "AR600ML",
+    "nombre": "ARMARIOS DE ACERO INOX SERIE M REFRIGERACION/CONGELACION FONDO 730mm",
+    "precioFinal": 891,
+    "id": 1024,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 810
+  },
+  {
+    "codigo": "AC600ML",
+    "nombre": "ARMARIOS DE ACERO INOX SERIE M REFRIGERACION/CONGELACION FONDO 730mm",
+    "precioFinal": 1045,
+    "id": 1025,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 950
+  },
+  {
+    "codigo": "AR400ML",
+    "nombre": "ARMARIOS DE ACERO INOX SERIE M REFRIGERACION/CONGELACION FONDO 600mm",
+    "precioFinal": 775.5,
+    "id": 1026,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 705
+  },
+  {
+    "codigo": "AC400ML",
+    "nombre": "ARMARIOS DE ACERO INOX SERIE M REFRIGERACION/CONGELACION FONDO 600mm",
+    "precioFinal": 862.4,
+    "id": 1027,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 784
+  },
+  {
+    "codigo": "BAI100JT",
+    "nombre": "BOTELLERO DE ACERO INOX 1000mm",
+    "precioFinal": 592.9,
+    "id": 1028,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 539
+  },
+  {
+    "codigo": "BAI150JT",
+    "nombre": "BOTELLERO DE ACERO INOX 1500mm",
+    "precioFinal": 707.3,
+    "id": 1029,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 643
+  },
+  {
+    "codigo": "BAI200JT",
+    "nombre": "BOTELLERO DE ACERO INOX 2000mm",
+    "precioFinal": 1172.6,
+    "id": 1030,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 1066
+  },
+  {
+    "codigo": "MP155MML",
+    "nombre": "MESA REFRIGERADA PARA PREPARACION DE PIZZA C/ SUPERFICIE DE GRANITO",
+    "precioFinal": 1095.6,
+    "id": 1031,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 996
+  },
+  {
+    "codigo": "MP155MML-VI",
+    "nombre": "MESA REFRIGERADA PARA PREPARACION DE PIZZA C/ SUPERFICIE DE GRANITO C/ VITRINA",
+    "precioFinal": 1540,
+    "id": 1032,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 1400
+  },
+  {
+    "codigo": "ADRE400VTE",
+    "nombre": "ARMARIO EXPOSITOR REFRIGERADO SERIE STANDARD",
+    "precioFinal": 577.5,
+    "id": 1033,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 525
+  },
+  {
+    "codigo": "ADRE1000VTE",
+    "nombre": "ARMARIO DE 2 PUERTAS ABATIBLES EXPOSITOR REFRIGERADO",
+    "precioFinal": 1155,
+    "id": 1034,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 1050
+  },
+  {
+    "codigo": "ADRE1600VTE",
+    "nombre": "ARMARIO DE 3 PUERTAS ABATIBLES EXPOSITOR REFRIGERADO",
+    "precioFinal": 2035,
+    "id": 1035,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 1850
+  },
+  {
+    "codigo": "ADRE2000VTE",
+    "nombre": "ARMARIO DE 3 PUERTAS ABATIBLES EXPOSITOR REFRIGERADO",
+    "precioFinal": 2310,
+    "id": 1036,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 2100
+  },
+  {
+    "codigo": "ADRE2200VTE",
+    "nombre": "ARMARIO DE 3 PUERTAS ABATIBLES EXPOSITOR REFRIGERADO",
+    "precioFinal": 2629,
+    "id": 1037,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 2390
+  },
+  {
+    "codigo": "ADRE2500VTE",
+    "nombre": "ARMARIO DE 5 PUERTAS ABATIBLES EXPOSITOR REFRIGERADO",
+    "precioFinal": 2849,
+    "id": 1038,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 2590
+  },
+  {
+    "codigo": "AC145QH",
+    "nombre": "ARCON CONGELADOR DE 1450mm",
+    "precioFinal": 561,
+    "id": 1039,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 510
+  },
+  {
+    "codigo": "AC180QH",
+    "nombre": "ARCON CONGELADOR DE 1800mm",
+    "precioFinal": 935,
+    "id": 1040,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 850
+  },
+  {
+    "codigo": "AC225QH",
+    "nombre": "ARCON CONGELADOR DE 2250mm",
+    "precioFinal": 1419,
+    "id": 1041,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 1290
+  },
+  {
+    "codigo": "IC145QH",
+    "nombre": "ISLA DE CONGELADOS DE CRISTAL CURVO 1450mm",
+    "precioFinal": 682,
+    "id": 1042,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 620
+  },
+  {
+    "codigo": "IC165QH",
+    "nombre": "ISLA DE CONGELADOS DE CRISTAL CURVO 1650mm",
+    "precioFinal": 1056,
+    "id": 1043,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 960
+  },
+  {
+    "codigo": "IC193QH",
+    "nombre": "ISLA DE CONGELADOS DE CRISTAL RECTO 1930mm",
+    "precioFinal": 1375,
+    "id": 1044,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 1250
+  },
+  {
+    "codigo": "C2FVGDR",
+    "nombre": "COCINA DE 2 FUEGOS VERTICAL A GAS DE SOBREMESA",
+    "precioFinal": 363,
+    "id": 1045,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 330
+  },
+  {
+    "codigo": "C4FGF6DR",
+    "nombre": "COCINA DE 4 FUEGOS A GAS DE SOBREMESA",
+    "precioFinal": 561,
+    "id": 1046,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 510
+  },
+  {
+    "codigo": "C4FGF7DR",
+    "nombre": "COCINA DE 4 FUEGOS A GAS DE SOBREMESA",
+    "precioFinal": 627,
+    "id": 1047,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 570
+  },
+  {
+    "codigo": "C6FSBBY",
+    "nombre": "COCINA DE 6 FUEGOS SOBREMESA",
+    "precioFinal": 1029.6,
+    "id": 1048,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 936
+  },
+  {
+    "codigo": "C4FSBBY",
+    "nombre": "COCINA DE 4 FUEGOS SOBREMESA",
+    "precioFinal": 704,
+    "id": 1049,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 640
+  },
+  {
+    "codigo": "C3FSBBY",
+    "nombre": "COCINA DE 3 FUEGOS SOBREMESA",
+    "precioFinal": 481.8,
+    "id": 1050,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 438
+  },
+  {
+    "codigo": "C6FCSF12BY",
+    "nombre": "COCINA DE 6 FUEGOS CON SOPORTE DE 1200mm",
+    "precioFinal": 1117.6,
+    "id": 1051,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 1016
+  },
+  {
+    "codigo": "C6FCSF15BY",
+    "nombre": "COCINA DE 6 FUEGOS CON SOPORTE DE 1500mm",
+    "precioFinal": 1227.6,
+    "id": 1052,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 1116
+  },
+  {
+    "codigo": "C3FCSBY",
+    "nombre": "COCINA DE 3 FUEGOS CON SOPORTE",
+    "precioFinal": 586.3,
+    "id": 1053,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 533
+  },
+  {
+    "codigo": "C4FCSBY",
+    "nombre": "COCINA DE 4 FUEGOS CON SOPORTE",
+    "precioFinal": 859.1,
+    "id": 1054,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 781
+  },
+  {
+    "codigo": "C2FCHBY",
+    "nombre": "COCINA DE 2 FUEGOS CON HORNO A GAS",
+    "precioFinal": 740.3,
+    "id": 1055,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 673
+  },
+  {
+    "codigo": "C4FCHBY",
+    "nombre": "COCINA DE 4 FUEGOS CON HORNO A GAS",
+    "precioFinal": 1637.9,
+    "id": 1056,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 1489
+  },
+  {
+    "codigo": "C3FH120BY",
+    "nombre": "COCINA DE 3 FUEGOS CON HORNO DE 1200mm",
+    "precioFinal": 1070.3,
+    "id": 1057,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 973
+  },
+  {
+    "codigo": "C3FH150BY",
+    "nombre": "COCINA DE 3 FUEGOS CON HORNO DE 1500mm",
+    "precioFinal": 1105.5,
+    "id": 1058,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 1005
+  },
+  {
+    "codigo": "C6FCHBY",
+    "nombre": "COCINA DE 6 FUEGOS CON HORNO",
+    "precioFinal": 1894.2,
+    "id": 1059,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 1722
+  },
+  {
+    "codigo": "PLH25GBY",
+    "nombre": "PLANCHA DE HIERRO A GAS  290 x 400 mm",
+    "precioFinal": 151.8,
+    "id": 1060,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 138
+  },
+  {
+    "codigo": "PLH50GBY",
+    "nombre": "PLANCHA DE HIERRO A GAS  490 x 400 mm",
+    "precioFinal": 187,
+    "id": 1061,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 170
+  },
+  {
+    "codigo": "PLH70GBY",
+    "nombre": "PLANCHA DE HIERRO A GAS  690 x 400 mm",
+    "precioFinal": 315.7,
+    "id": 1062,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 287
+  },
+  {
+    "codigo": "PLH100GBY",
+    "nombre": "PLANCHA DE HIERRO A GAS  990 x 400 mm",
+    "precioFinal": 350.9,
+    "id": 1063,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 319
+  },
+  {
+    "codigo": "PLH120GBY",
+    "nombre": "PLANCHA DE HIERRO A GAS  1990 x 400 mm",
+    "precioFinal": 434.5,
+    "id": 1064,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 395
+  },
+  {
+    "codigo": "PCRG400X",
+    "nombre": "PLANCHA DE CROMODURO SUPER A GAS 400 mm",
+    "precioFinal": 429,
+    "id": 1065,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 390
+  },
+  {
+    "codigo": "PCRG600X",
+    "nombre": "PLANCHA DE CROMODURO SUPER A GAS 600 mm",
+    "precioFinal": 671,
+    "id": 1066,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 610
+  },
+  {
+    "codigo": "PCRG900X",
+    "nombre": "PLANCHA DE CROMODURO SUPER A GAS 900 mm",
+    "precioFinal": 797.5,
+    "id": 1067,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 725
+  },
+  {
+    "codigo": "PCRG1200X",
+    "nombre": "PLANCHA DE CROMODURO SUPER A GAS 1200 mm",
+    "precioFinal": 1006.5,
+    "id": 1068,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 915
+  },
+  {
+    "codigo": "MTMPF10CB",
+    "nombre": "MESA DE TRABAJO MURAL 1000 x 600 x 850 mm",
+    "precioFinal": 176,
+    "id": 1069,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 160
+  },
+  {
+    "codigo": "MTMPF15CB",
+    "nombre": "MESA DE TRABAJO MURAL 1500 x 600 x 850 mm",
+    "precioFinal": 225.5,
+    "id": 1070,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 205
+  },
+  {
+    "codigo": "MTMPF20CB",
+    "nombre": "MESA DE TRABAJO MURAL 2000 x 600 x 850 mm",
+    "precioFinal": 264,
+    "id": 1071,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 240
+  },
+  {
+    "codigo": "MTMPF25CB",
+    "nombre": "MESA DE TRABAJO MURAL 2500 x 600 x 850 mm",
+    "precioFinal": 319,
+    "id": 1072,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 290
+  },
+  {
+    "codigo": "LV405V",
+    "nombre": "LAVAVASOS DE 40 x 40 SILVER",
+    "precioFinal": 990,
+    "id": 1073,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 900
+  },
+  {
+    "codigo": "LV505V",
+    "nombre": "LAVAVASOS DE 50 x 50 SILVER",
+    "precioFinal": 1208.9,
+    "id": 1074,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 1099
+  },
+  {
+    "codigo": "LPCUPSV",
+    "nombre": "LAVAVAJILLAS DE CAPOTA SILVER",
+    "precioFinal": 1848,
+    "id": 1075,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 1680
+  },
+  {
+    "codigo": "FS7LGE",
+    "nombre": "FREIDORA A GAS 7 LITROS",
+    "precioFinal": 275,
+    "id": 1076,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 250
+  },
+  {
+    "codigo": "FD7LGE",
+    "nombre": "FREIDORA A GAS 7 + 7 LITROS",
+    "precioFinal": 429,
+    "id": 1077,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 390
+  },
+  {
+    "codigo": "FG13LFS",
+    "nombre": "FREIDORA A GAS 13 LITROS",
+    "precioFinal": 352,
+    "id": 1078,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 320
+  },
+  {
+    "codigo": "FG1313LFS",
+    "nombre": "FREIDORA A GAS 13 + 13 LITROS",
+    "precioFinal": 517,
+    "id": 1079,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 470
+  },
+  {
+    "codigo": "F12LGDR",
+    "nombre": "FREIDORA SIMPLE DE 12 LITROS A GAS CON GRIFO",
+    "precioFinal": 704,
+    "id": 1080,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 640
+  },
+  {
+    "codigo": "F1212LGDR",
+    "nombre": "FREIDORA DOBLE DE 12 + 12 LITROS A GAS CON GRIFO",
+    "precioFinal": 1265,
+    "id": 1081,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 1150
+  },
+  {
+    "codigo": "FS18G",
+    "nombre": "FREIDORA A GAS DE 18 LITROS",
+    "precioFinal": 451,
+    "id": 1082,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 410
+  },
+  {
+    "codigo": "FD1818LG",
+    "nombre": "FREIDORA A GAS DE 18 + 18 LITROS",
+    "precioFinal": 709.5,
+    "id": 1083,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 645
+  },
+  {
+    "codigo": "FD6L",
+    "nombre": "FREIDORA ELECTRICA DE 6 LITROS",
+    "precioFinal": 223.3,
+    "id": 1084,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 203
+  },
+  {
+    "codigo": "FD6L6L",
+    "nombre": "FREIDORA ELECTRICA DE 6 + 6 LITROS",
+    "precioFinal": 408.1,
+    "id": 1085,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 371
+  },
+  {
+    "codigo": "FD8L300",
+    "nombre": "FREIDORA ELECTRICA DE 8 LITROS CON GRIFO",
+    "precioFinal": 365.2,
+    "id": 1086,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 332
+  },
+  {
+    "codigo": "FD8L8L600",
+    "nombre": "FREIDORA ELECTRICA DE 8 + 8 LITROS CON GRIFO",
+    "precioFinal": 680.9,
+    "id": 1087,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 619
+  },
+  {
+    "codigo": "FD10L300",
+    "nombre": "FREIDORA ELECTRICA DE 10 LITROS CON GRIFO",
+    "precioFinal": 388.3,
+    "id": 1088,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 353
+  },
+  {
+    "codigo": "FD10L10L600",
+    "nombre": "FREIDORA ELECTRICA DE 10 + 10  LITROS CON GRIFO",
+    "precioFinal": 716.1,
+    "id": 1089,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 651
+  },
+  {
+    "codigo": "F4ES",
+    "nombre": "FREIDORA ELECTRICA DE 4 LITROS",
+    "precioFinal": 172.7,
+    "id": 1090,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 157
+  },
+  {
+    "codigo": "F8ES",
+    "nombre": "FREIDORA ELECTRICA DE 8 LITROS",
+    "precioFinal": 206.8,
+    "id": 1091,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 188
+  },
+  {
+    "codigo": "F10GES",
+    "nombre": "FREIDORA ELECTRICA DE 10 LITROS CON GRIFO",
+    "precioFinal": 291.5,
+    "id": 1092,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 265
+  },
+  {
+    "codigo": "F4X2ES",
+    "nombre": "FREIDORA ELECTRICA DE 4 + 4 LITROS",
+    "precioFinal": 334.4,
+    "id": 1093,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 304
+  },
+  {
+    "codigo": "F8X2ES",
+    "nombre": "FREIDORA ELECTRICA DE 8 + 8 LITROS",
+    "precioFinal": 391.6,
+    "id": 1094,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 356
+  },
+  {
+    "codigo": "F10GX2ES",
+    "nombre": "FREIDORA ELECTRICA DE 10 + 10 LITROS CON GRIFO",
+    "precioFinal": 542.3,
+    "id": 1095,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 493
+  },
+  {
+    "codigo": "F104ES",
+    "nombre": "FREIDORA ELECTRICA DE 10 + 4 LITROS CON GRIFO",
+    "precioFinal": 453.2,
+    "id": 1096,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 412
+  },
+  {
+    "codigo": "FS8LE",
+    "nombre": "FREIDORA ELECTRICA DE 8 LITROS",
+    "precioFinal": 121,
+    "id": 1097,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 110
+  },
+  {
+    "codigo": "FD8LE",
+    "nombre": "FREIDORA ELECTRICA DE 8 + 8 LITROS",
+    "precioFinal": 225.5,
+    "id": 1098,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 205
+  },
+  {
+    "codigo": "FS10LEGR",
+    "nombre": "FREIDORA ELECTRICA DE 10 LITROS CON GRIFO",
+    "precioFinal": 184.8,
+    "id": 1099,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 168
+  },
+  {
+    "codigo": "FD10LEGR",
+    "nombre": "FREIDORA ELECTRICA DE 10 + 10 LITROS CON GRIFOS",
+    "precioFinal": 352,
+    "id": 1100,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 320
+  },
+  {
+    "codigo": "FS16LEGR",
+    "nombre": "FREIDORA ELECTRICA DE 16 LITROS CON GRIFO",
+    "precioFinal": 218.9,
+    "id": 1101,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 199
+  },
+  {
+    "codigo": "FD16LEGR",
+    "nombre": "FREIDORA ELECTRICA DE 16 + 16 LITROS CON GRIFOS",
+    "precioFinal": 369.6,
+    "id": 1102,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 336
+  },
+  {
+    "codigo": "FS19LEGR",
+    "nombre": "FREIDORA ELECTRICA DE 19 LITROS CON GRIFO",
+    "precioFinal": 265.1,
+    "id": 1103,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 241
+  },
+  {
+    "codigo": "FD19LEGR",
+    "nombre": "FREIDORA ELECTRICA DE 19 + 19 LITROS CON GRIFOS",
+    "precioFinal": 418,
+    "id": 1104,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 380
+  },
+  {
+    "codigo": "FS19LEGRTR",
+    "nombre": "FREIDORA ELECTRICA DE 19 LITROS CON GRIFO",
+    "precioFinal": 369.6,
+    "id": 1105,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 336
+  },
+  {
+    "codigo": "FD19LEGRTR",
+    "nombre": "FREIDORA ELECTRICA DE 19 + 19 LITROS CON GRIFOS",
+    "precioFinal": 519.2,
+    "id": 1106,
+    "imagen": "https://img.freepik.com/vector-gratis/esquema-color-rayo_78370-517.jpg",
+    "precioSIVA": 472
+  }
+]
